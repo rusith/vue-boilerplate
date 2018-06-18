@@ -1,0 +1,10 @@
+export const getAuthenticationInfo = 'AUTH_GET_AUTHENTICATION_INFORMATION';
+export const loginInProgress = 'AUTH_LOGIN_LOGIN_IN_PROGRESS';
+export const loginFailed = 'AUTH_LOGIN_FAILED';
+export const loginSucceeded = 'AUTH_LOGIN_SUCCEEDED';
+export const signUpInProgress = 'AUTH_SIGN_UP_IN_PROGRESS';
+export const SignUpFailed = 'AUTH_SIGN_UP_FAILED';
+export const SignUpSuccessful = 'AUTH_SIGN_UP_SUCCESSFUL';
+export const EmailActivationInProgress = 'AUTH_EMAIL_ACTIVATION_IN_PROGRESS';
+export const EmailActivationFailed = 'AUTH_EMAIL_ACTIVATION_FAILED';
+export const EmailActivationSuccessful = 'AUTH_EMAIL_ACTIVATION_SUCCESSFUL';
